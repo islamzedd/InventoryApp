@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Insert dummy data"
+        android:id="@+id/insert_dummy_data"
+        />
+    <item
+        android:title="Delete all items"
+        android:id="@+id/delete_all_items"/>
+</menu>
